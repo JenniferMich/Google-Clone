@@ -1,4 +1,4 @@
-# Clonación de la interfaz de Google | Cloning of the google interface 🔎
+# Clonación de la interfaz de Google | Cloning of the google interface 
 ###### 🌸Creado con HTML5 y CSS3 en el bootcamp de TecnolochicasPro🌸
 
 ## ÍNDICE
@@ -9,12 +9,12 @@
 
 ***
 
-## INTRO 📖
+## 📖 INTRO 
 HTML5 o HyperText Markup Language, es el componente básico de la web y junto con CSS3, se crean páginas web que usamos diariamente. 
 Definimos el significado, la estructura y el estilo del contenido web a través de estas tecnologías.
 En este proyecto se utilizó HTML y CSS para construir una interfaz de clonación de Google.
 
-## ¿QUÉ CONSTRUI? 🔨
+## 🔨 ¿QUÉ CONSTRUI? 
 El proyecto esta enfocado en la contrucción de la interfaz de Google, tomando especial atención a su UI/UX para replicar su comportamiento
 y estilo al 100%. La interfaz se encuentra dividida en las siguientes secciones:
 * Header: Sección donde se encuentra la navegación principal de Google, como la foto de perfil del usuario, íconos y menú.
@@ -23,9 +23,11 @@ y estilo al 100%. La interfaz se encuentra dividida en las siguientes secciones:
 
 * Footer: Sección que contiene información extra para el usuario, asi como hipervínculos al final de la página.
 
-## OBJETIVOS DEL PROYECTO 💡
+## 💡 OBJETIVOS DEL PROYECTO 
 Aprender a utilizar las etiquetas de HTML5 y las propiedades de CSS3; así como identificar componentes base de un sitio web,
 para analizarlas y replicarlas.
 
-## ¡LINK AL DEMO! 📎
+## 📎 ¡LINK AL DEMO! 
 Visualiza mi proyecto terminado aquí  👉 [Clonación de Google](https://jennifermich.github.io/Google-Clone/)
+
+![Google - Google Chrome 01_05_2023 04_47_00 p  m](https://user-images.githubusercontent.com/131729686/235544789-4d8e6c45-8348-4d34-84d0-c74ee47cf4af.png)
